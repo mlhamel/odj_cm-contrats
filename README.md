@@ -11,3 +11,5 @@ Le fichier PDF original fait 250 megs. Il n'a pas été testé si la conversion 
 Pour l'instant, l'extraction a été limitée aux pages pertinents.
 
 Mais éventuellement, il serait bien d'automatiser tout le processus.
+
+Pour les traitements, utilisez un répertoires C:\contrats.
