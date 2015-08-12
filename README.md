@@ -13,3 +13,5 @@ Pour l'instant, l'extraction a été limitée aux pages pertinents.
 Mais éventuellement, il serait bien d'automatiser tout le processus.
 
 Pour les traitements, utilisez un répertoires C:\contrats.
+
+Il s'agit d'une première version du script. Il se peut donc qu'il y ai des cas particulier qui soient mal traités selon le texte source.
