@@ -13,6 +13,7 @@
 #python pdf2txt.py -p 6,7,8,9,10,11,12,13,14,15 -o odj.txt -c utf-8 odj.pdf
 
 #Fonction stripBOM
+#
 def stripBOM(fileName):
     try:
         with open(fileName, encoding='utf-8', mode='r') as f:
