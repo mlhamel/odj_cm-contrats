@@ -1,7 +1,7 @@
 #Extraire les contrats de l'ordre du jour du Conseil municipal
 #Version 1.0, 2015-08-11
 #Développé en Python 3.4
-#Licence CC-BY-NC 4.0
+#Licence CC-BY-NC 4.0 
 
 #Mettre les fichiers requis pour le traitement dans C:\contrats
 
